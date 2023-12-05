@@ -9,7 +9,7 @@ function skillMembers() {
     members.push({
         name: 'Peter',
         age: 35,
-        skills: ['JavaScript', 'CSS', 'HTML']
+        skills: ['JavaScript', 'CSS', 'HTML', "Python"]
     });
     return members;
 }
